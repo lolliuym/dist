@@ -1,4 +1,3 @@
-module.exports= {
-  
+module.exports= {  
   publicPath: '/vue-path/'
 }
